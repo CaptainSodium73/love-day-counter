@@ -1,7 +1,7 @@
 // Important Dates
-const loveStartDate = new Date("2023-10-21T23:00:00"); // Relationship start date
-const aathilBirthday = new Date("2000-12-23T00:00:00"); // Aathil's birthday
-const duckyBirthday = new Date("2007-04-22T00:00:00"); // Ducky's birthday
+const loveStartDate = new Date("2025-08-04T23:00:00"); // Relationship start date
+const aathilBirthday = new Date("1998-03-07T00:00:00"); // Aathil's birthday
+const duckyBirthday = new Date("1999-06-21T00:00:00"); // Ducky's birthday
 
 function updateAllCounters() {
   const now = new Date();
